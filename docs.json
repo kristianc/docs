@@ -4,7 +4,7 @@
   "name": "Segment8",
   "colors": {
   "primary": "#752AF1",
-  "light": "#60A5FA",
+  "light": "#752AF1",
   "dark": "#1E40AF"
 },
   "favicon": "/favicon.svg",
